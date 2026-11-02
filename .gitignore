@@ -1,0 +1,8 @@
+# Firebase config (contains keys)
+GoogleService-Info.plist
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+.DS_Store
